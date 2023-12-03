@@ -18,3 +18,5 @@ https://www.kaggle.com/datasets/zusmani/us-census-2020?select=Iowa_IA.csv
 ## csvs entpacken
 
 die beiden gezippten CSV Dateien entpacken
+
+## Zusammen gefasst sind die Ergebnisse im Ordner Fertiges Ergebnis
